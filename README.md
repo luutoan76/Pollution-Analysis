@@ -1,6 +1,6 @@
 # 🌍 Pollution Analysis (World & Vietnam)
 
-This project focuses on analyzing air pollution data worldwide and in Vietnam.  
+This project focuses on analyzing air pollution data worldwide and in Viet Nam.  
 The goal is to explore trends, causes, and impacts of different pollutants, and to provide meaningful insights through data analysis and visualization.
 
 ---
@@ -20,7 +20,7 @@ The goal is to explore trends, causes, and impacts of different pollutants, and 
 - **Environment**: Jupyter Notebook  
 - **Data Processing**: pandas, numpy
 - **Visualization**: matplotlib, seaborn, plotly  
-- **Other**: geopandas, folium, country_coverter
+- **Other**: geopandas, plotly, country_coverter
 
 
 ---
