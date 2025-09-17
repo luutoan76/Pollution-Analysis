@@ -40,7 +40,7 @@ The goal is to explore trends, causes, and impacts of different pollutants, and 
 
 ---
 
-## 🔎 Data Understanding
+## 🔎 Exploratory Data Analysis
 - Explore dataset dimensions, data types, and summary statistics.  
 - Identify the main pollutants: PM2.5, NO₂, Ozone, CO.
 - Analyze pollutant distributions and correlations.  
@@ -50,11 +50,15 @@ The goal is to explore trends, causes, and impacts of different pollutants, and 
 
 
 ## 📊 Data Visualization
-- **Lines plots**: Pollution trends by year.
-- **Bar charts**: Country/region comparisons.  
+- **Bar charts**: Country/region comparisons.
+- **Pie chart**: AQI distribution by continent  
 - **Heatmaps**: Correlation between pollutants.  
 - **Geospatial map**: Pollution distribution across locations.
 - **Scatter Plot**: Compare the correlation between pollutant
+
+## 🖥️ Dashboard
+👉 [View Tableau Dashboard here](https://public.tableau.com/views/MyProjectDashboard_17569136921260/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+
 
 ---
 ## ✅ Conclusion
