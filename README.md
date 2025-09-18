@@ -34,7 +34,7 @@ The goal is to explore trends, causes, and impacts of different pollutants, and 
 
 ## 🧹 Data Cleaning Steps
 - Remove duplicates and missing records.  
-- Handle missing countries values by filling country base on cities name.  
+- Handle missing countries values by using city metadata.
 - Convert date/time columns into proper formats.  
 - Normalize pollutant names and measurement units.  
 
@@ -44,7 +44,7 @@ The goal is to explore trends, causes, and impacts of different pollutants, and 
 - Explore dataset dimensions, data types, and summary statistics.  
 - Identify the main pollutants: PM2.5, NO₂, Ozone, CO.
 - Analyze pollutant distributions and correlations.  
-- Compare Vietnam’s avergae pollution levels with global average.
+- Compare Vietnam’s average pollution levels with global average.
 
 ---
 
@@ -59,6 +59,9 @@ The goal is to explore trends, causes, and impacts of different pollutants, and 
 ## 🖥️ Dashboard
 👉 [View Tableau Dashboard here](https://public.tableau.com/views/MyProjectDashboard_17569136921260/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
+<p align="center">
+  <img src="Data/Dashboard 2.png" width="700">
+</p>
 
 ---
 ## ✅ Conclusion
